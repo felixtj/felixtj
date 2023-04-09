@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felixtj
 - 👀 I’m interested in Technology, a Digital Enthusiast
-- 🌱 I’m currently learning Svelte, Vue js, Golang and Web3
+- 🌱 I’m currently learning AI, Svelte, Azure
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me felix@idowebdevelopment.com
 
