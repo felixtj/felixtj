@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felixtj
 - 👀 I’m interested in Technology, a Digital Enthusiast
-- 🌱 I’m currently learning AI, Svelte, Azure
+- 🌱 I’m currently learning AI, Azure
 - 📫 How to reach me felix@idowebdevelopment.com
 
 <!---
